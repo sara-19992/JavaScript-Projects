@@ -1,0 +1,23 @@
+body {
+  background-color: #f9f9f9cc;
+  color: black;
+  text-align: center;
+  font-family: system-ui;
+}
+
+h1 {
+  margin-top: 25lvh;
+}
+#increment-btn,
+#save-btn {
+  font-family: system-ui;
+  font-weight: bold;
+  color: white;
+  background-color: #eb9e0f;
+  display: block;
+  margin: 10px auto;
+  border-radius: 2px;
+  border: none;
+  width: 200px;
+  height: 35px;
+}

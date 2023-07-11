@@ -1,0 +1,24 @@
+body {
+  background-color: #0b520bcc;
+  color: white;
+  text-align: center;
+  font-family: system-ui;
+}
+
+h1 {
+  color: #dca823;
+}
+
+#start-btn,
+#newcard-btn {
+  font-family: system-ui;
+  font-weight: bold;
+  color: white;
+  background-color: #dca823;
+  display: block;
+  margin: 10px auto;
+  border-radius: 2px;
+  border: none;
+  width: 200px;
+  height: 35px;
+}
